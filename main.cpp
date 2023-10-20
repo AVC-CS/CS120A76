@@ -1,5 +1,4 @@
 #include "main.hpp"
-const int N = 5000;
 int main()
 {
 	string state[N];
