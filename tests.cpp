@@ -6,7 +6,6 @@
 // tests for exercise 1
 TEST_CASE("Ex1 makeNameRecord()", "[example]")
 {
-	const int N = 5000;
 	string state[N];
 	string gender[N];
 	int year[N];
@@ -22,7 +21,6 @@ TEST_CASE("Ex1 makeNameRecord()", "[example]")
 // tests for exercise 2
 TEST_CASE("Ex2 findNames()", "[example]")
 {
-	const int N = 5000;
 	string state[N];
 	string gender[N];
 	int year[N];
@@ -42,7 +40,6 @@ TEST_CASE("Ex2 findNames()", "[example]")
 // tests for exercise 3
 TEST_CASE("Ex3 findNames()", "[example]")
 {
-	const int N = 5000;
 	string state[N];
 	string gender[N];
 	int year[N];
